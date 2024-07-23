@@ -1,4 +1,10 @@
-﻿using EFCoreTutorialsConsole;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using EFCoreTutorialsConsole;
+
 using (var context = new SchoolDbContext())
 {
     //creates db if not exists 
@@ -45,4 +51,23 @@ using (var context = new SchoolDbContext())
     // context.Remove<Student>(std);
 
     context.SaveChanges();
+}
+namespace EFCoreTutorialsConsole
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            var context = new SchoolDbContext();
+            var studentsWithSameName = context.Students.Where(s => s.FirstName == GetName()).ToList();
+            foreach(var s in studentsWithSameName)
+            {
+                Console.WriteLine(s.FirstName);
+            }
+        }
+        public static string GetName()
+        {
+            return "Bill";
+        }
+    }
 }
