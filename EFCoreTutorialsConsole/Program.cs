@@ -32,17 +32,4 @@ using (var context = new SchoolDbContext())
     // context.Add<Student>(std);
 
     context.SaveChanges();
-
-
-    var std2 = context.Students.First<Student>();
-    std2.FirstName = "Steve";
-    context.SaveChanges();
-
-    var std3 = context.Students.First<Student>();
-    context.Students.Remove(std3);
-
-    // or
-    // context.Remove<Student>(std);
-
-    context.SaveChanges();
 }
