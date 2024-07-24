@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/u6cy3uyKTgEPUH8Woqa3xIpllCCNB3kO73d8MWzoRaAQ+lSJvA3zWE7E4clLX4FwJd/8qx7fSz7ErqB5HUUg==",
+  "dgSpecHash": "r7OHf1IlB+oJ7zusozl+cY7gF1K134DbZAtaGazaXlgiX0Rez7J9z6pq19c4dh5HPDmx6lU4zI1KWbosifTl3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj",
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

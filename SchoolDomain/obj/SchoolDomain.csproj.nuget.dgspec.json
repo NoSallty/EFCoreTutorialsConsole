@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj": {}
+    "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj": {
+    "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj",
         "projectName": "SchoolDomain",
-        "projectPath": "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj",
+        "projectPath": "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\SchoolDomain\\obj\\",
+        "outputPath": "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\SchoolDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

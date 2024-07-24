@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj": {}
+    "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj": {
+    "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj",
         "projectName": "EFCoreTutorialsConsole",
-        "projectPath": "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj",
+        "projectPath": "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\obj\\",
+        "outputPath": "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\EFCoreTutorialsConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

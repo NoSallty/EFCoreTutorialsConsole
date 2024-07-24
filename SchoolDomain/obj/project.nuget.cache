@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eDcnteKjJDgxAvdtf50/oODzM+z+xwih7BPRkgplSEv9TIKCFhcluYbYv0XfvHX4JIq26EaCszrdbAdi6cJOng==",
+  "dgSpecHash": "A6bH0Mx4a/a3qUjgIdDhGjJKINVlnUfSNRU47427OdzLe/TLmB8pfu0+pB+JAXhgo8Ds1ivuC27/L7RSgHqn9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\TTTN-TTDN\\Bài tập\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj",
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\NoSallty\\EFCoreTutorialsConsole\\SchoolDomain\\SchoolDomain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
