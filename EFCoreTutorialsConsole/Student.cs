@@ -13,5 +13,7 @@ namespace EFCoreTutorialsConsole
         public string LastName { get; set; } = string.Empty;
         public int GradeId { get; set; }
         public Grade Grade { get; set; }
+        public StudentAddress Address { get; set; }
+        public IList<StudentCourse> StudentCourses { get; set; }
     }
 }
